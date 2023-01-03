@@ -1,4 +1,3 @@
-# ApexFreeCheatRelease
 # Same Driver open source : https://github.com/skullcheat/Apex_Driver
 # Kdmapper used source : https://github.com/TheCruZ/kdmapper
 # DISCORD SERVER : https://discord.gg/mjctHXBYfC
