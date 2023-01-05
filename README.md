@@ -5,7 +5,7 @@
 # Same Driver open source : https://github.com/skullcheat/Apex_Driver
 # Kdmapper used source : https://github.com/TheCruZ/kdmapper
 # MORES FREE CHEAT  JOIN DISCORD SERVER : https://discord.gg/mjctHXBYfC
-# USE MY FREE SPOOFER WORK WITH ALL GAMES ! ( JOIN DISCORD ALL LINKS HERE ) IF YOU DON'T WANT TO GET FAST BAN
+# USE MY FREE SPOOFER WORK WITH ALL GAMES ! ( JOIN DISCORD ALL LINKS HERE ) IF YOU DON'T WANT TO GET FAST BAN VIDEO SPOOFER : https://share.vidyard.com/watch/4KPTiyw2DfFzu55c5BNDcs?
 # #1 - make sure all file its same folder kdmapper.exe / kernel.sys / usermode.exe
 # #2 - Start usermode.exe
 # #3 - Open apex legends
