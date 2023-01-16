@@ -8,7 +8,7 @@
 =======================================================================
 # MORES FREE CHEAT  JOIN DISCORD SERVER : https://discord.gg/skullcheat
 =======================================================================
-- HOW TO USE -
+# HOW TO USE
 # #1 - make sure all file its same folder kdmapper.exe / kernel.sys / SkullExternal.exe
 # #2 - Start SkullExternal.exe
 # #3 - Open apex legends
