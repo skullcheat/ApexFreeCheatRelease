@@ -8,6 +8,7 @@
 # 🤬 don't waste your time with me if you don't have money ! 🤬
 =======================================================================
 # MORES FREE CHEAT  JOIN DISCORD SERVER : https://discord.gg/skullcheat
+# WEBSITE : https://redskull.sell.app
 =======================================================================
 # HOW TO USE
 # #1 - make sure all file its same folder kdmapper.exe / kernel.sys / SkullExternal.exe
