@@ -1,4 +1,5 @@
 # Apex-Legends-Free-Cheat
+# 😍 UPDATE 2023 - 01 - 16 😍
 # 🔅 if you need full source code you should pay
 # 🔅 Private Kernel Driver 0 detection / (already created and never used)
 # video here : https://share.vidyard.com/watch/tWqe8DwhLC82Xau3Zs6Xju?
