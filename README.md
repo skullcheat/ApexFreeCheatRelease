@@ -1,4 +1,4 @@
-# Apex-Legends-Free-Cheat
+# Apex-Legends-Free-Cheat External
 # 😍 UPDATE 2023 - 01 - 16 😍
 # 💸 If you want the source of the driver and the cheat you have to pay
 # 🔅 Private Kernel Driver 0 detection already created and never used
