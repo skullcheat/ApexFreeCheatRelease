@@ -5,7 +5,6 @@
 # 🔗 Work window borderless 
 # 🔗 Window 1903 to 21H2
 # 🔗 Streamproof
-# 🤬 don't waste your time with me if you don't have money ! 🤬
 =======================================================================
 # MORES FREE CHEAT  JOIN DISCORD SERVER : https://discord.gg/skullcheat
 # WEBSITE : https://redskull.sell.app
