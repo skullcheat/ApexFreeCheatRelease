@@ -1,7 +1,7 @@
 # Apex-Legends-Free-Cheat External
 # 😍 UPDATE 2023 - 01 - 16 😍
 # 💸 If you want the source of the driver and the cheat you have to pay
-# 🔅 Private  Driveralready created and never used ( Apex , Rust , Fortnite , WZ2 / MW2 , R6S , PUBG ) 
+# 🔅 Private  Driver already created and never used ( Apex , Rust , Fortnite , WZ2 / MW2 , R6S , PUBG ) 
 # 🔗 Work window borderless 
 # 🔗 Window 1903 to 21H2
 # 🔗 Streamproof
